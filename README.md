@@ -1,16 +1,23 @@
-## Hi there 👋
+# Amanzhol Akezhan
 
-<!--
-**AkezhanDev/AkezhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused 2nd-year Information Systems student at KBTU (Almaty, Kazakhstan).
+Currently learning Java + Spring Boot and building SQL/PostgreSQL skills.
+Strong focus on Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+## Tech
+- Languages: Java, C++, Python, SQL (PostgreSQL), JavaScript
+- Backend: Spring Boot (learning), REST APIs
+- Tools: Git, Docker, IntelliJ IDEA, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Spring Boot: controllers, services, repositories
+- PostgreSQL: schema design, joins, constraints
+- DSA practice (daily)
+
+## Projects
+- 🎟️ Cinema Ticket Booking DB (SQL/PostgreSQL) — schema + queries (coming soon)
+
+## Contact
+- Email: amanzholakezhan897@gmail.com
+- Telegram: @Akezhan897
+- GitHub: https://github.com/AkezhanDev
